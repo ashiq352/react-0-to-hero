@@ -22,3 +22,7 @@ Ans:-Your react application should run on the development mode while being devel
 
 ● What is async and defer?
 Ans:-Async - means execute code when it is downloaded and do not block DOM construction during downloading process. Defer - means execute code after it's downloaded and browser finished DOM construction and rendering process.
+
+#References:
+- https://beta.reactjs.org/apis/react/createElement
+- https://www.youtube.com/watch?v=IrHmpdORLu8
